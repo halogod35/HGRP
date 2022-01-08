@@ -1,0 +1,84 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "block/stone"
+      },
+      {
+        "model": "block/stone1"
+      },
+      {
+        "model": "block/stone2"
+      },
+      {
+        "model": "block/stone3"
+      },
+      {
+        "model": "block/stone4"
+      },
+      {
+        "model": "block/stone5"
+      },
+      {
+        "model": "block/stone6"
+      },
+      {
+        "model": "block/stone7"
+      },
+      {
+        "model": "block/stone8"
+      },
+      {
+        "model": "block/stone9"
+      },
+      {
+        "model": "block/stone10"
+      },
+      {
+        "model": "block/stone11"
+      },
+      {
+        "model": "block/stone12"
+      },
+      {
+        "model": "block/stone13"
+      },
+      {
+        "model": "block/stone14"
+      },
+      {
+        "model": "block/stone15"
+      },
+      {
+        "model": "block/stone16"
+      },
+      {
+        "model": "block/stone17"
+      },
+      {
+        "model": "block/stone18"
+      },
+      {
+        "model": "block/stone19"
+      },
+      {
+        "model": "block/stone20"
+      },
+      {
+        "model": "block/stone21"
+      },
+      {
+        "model": "block/stone22"
+      },
+      {
+        "model": "block/stone23"
+      },
+      {
+        "model": "block/stone24"
+      },
+      {
+        "model": "block/stone25"
+      }
+    ]
+  }
+}
