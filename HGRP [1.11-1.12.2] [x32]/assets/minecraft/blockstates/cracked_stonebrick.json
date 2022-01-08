@@ -1,0 +1,11 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "cracked_stonebrick"},
+            { "model": "cracked_stonebrick1"},
+            { "model": "cracked_stonebrick2"},
+            { "model": "cracked_stonebrick3"},
+            { "model": "cracked_stonebrick4"}
+        ]
+    }
+}
