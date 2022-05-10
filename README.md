@@ -40,7 +40,7 @@ forked from version 3.5.0
 * fixed mistake on rail_detector_powered
 
 ### v3.5.0
-* renamed Halogod's Resource Pack to HGRP [version]
+* shortened Halogod's Resource Pack to HGRP [version]
 * added beds of every color
 * switched rail_activator with rail_detector
 * added rail_detector
