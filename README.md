@@ -2,7 +2,8 @@
 Halogod's Resource Pack (HGRP) is an unofficial continuation of [Inspiration by TobiwanK3nobi](https://www.planetminecraft.com/texture-pack/inspiration-by-tobiwank3nobi/). The goal of this project is to port the resource pack for as many versions as possible while adding textures that stay true to the original content.
 
 # TobiwanK3nobi
-On June 27th, 2011, TobiwanK3nobi (Tobiah Sullivan) started on a resource pack called Inspiration, which has generated 321,307 downloads at the time of this commit. He discontinued working on the resource pack on May 28th, 2013, which means the resource pack is only available for Minecraft version 1.5.2.
+On June 27th, 2011, TobiwanK3nobi (Tobiah Sullivan) started on a resource pack called Inspiration, which has generated 321,307 downloads at the time of this commit. He discontinued working on the resource pack on May 28th, 2013, which means the resource pack is only available for Minecraft version 1.5.2. I reached out to him on [reddit](https://www.reddit.com/r/DualUniverse/comments/ucv51e/a_combat_test_of_my_pvp_score_with_the_new_athena/i83m123/?utm_source=reddit&utm_medium=web2x&context=3) to verify that he was finished with the project:
+![Screenshot_1](https://user-images.githubusercontent.com/6503891/172656674-52b7245b-7664-4ccf-9c4c-181c2360f9eb.png)
 
 # Versions
 ## 1.15 - 1.16 (pack_format: 5)
